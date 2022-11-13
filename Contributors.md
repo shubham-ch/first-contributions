@@ -50,6 +50,7 @@ Medvedkin Sergey
 - [Hassan Ali](https://github.com/HassAlli)
 - [Moaad Benkaraache](http://github.com/moaadb)
 - [Vedant Mate](https://github.com/VedantMate/)
+- [Shubham Chaurasia](https://github.com/shubham-ch)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [AntonioToni](https://github.com/AntonioToni)
 - [Soy Mariana] (https://github.com/mariana-aguilar)
